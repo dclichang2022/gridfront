@@ -2,7 +2,9 @@
 
 一款可操作的 3D 电网规划与电力市场模拟游戏。你要在城市增长、网架容量、发电出力和购售电合同之间做取舍：修路开发街区会带来新的负荷；建设电源和线路才能把电送过去；拥堵、天气和故障会改变供电与结算结果。
 
-**[下载 Windows x64 免安装试玩包](https://github.com/dclichang2022/gridfront/releases/latest)** · 解压后运行 `Gridfront-Market.exe`。包内附操作说明、机制说明和第三方许可。当前版本为 **V18 试玩版**。
+**[Windows x64 试玩包](https://github.com/dclichang2022/gridfront/releases/download/v18.0.0/Gridfront-V18-Windows-x64.zip)** · **[macOS 原生试玩包](https://github.com/dclichang2022/gridfront/releases/download/v18.0.0/Gridfront-Market-macOS-universal.zip)**。当前版本为 **V18 试玩版**，两种包内均附操作说明、机制说明和第三方许可。
+
+Windows 包解压后运行 `Gridfront-Market.exe`。Mac 包解压后将 `Gridfront-Market.app` 移入“应用程序”并打开，支持 Intel 和 Apple Silicon，无需 Parallels。Mac 包已完成导出、双架构、可执行权限、签名文件和 ZIP 校验，**尚未在 Mac 实机运行验证**。它采用临时签名、未做 Apple 公证；首次打开如遇拦截，可在 Finder 中按住 Control 点击应用选择“打开”，或到“系统设置 → 隐私与安全性”选择“仍要打开”。
 
 ![三维电网总览](docs/screenshots/overview.png)
 
