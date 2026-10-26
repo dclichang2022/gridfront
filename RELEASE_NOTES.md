@@ -5,3 +5,5 @@ V18 Windows x64 免安装试玩包。解压 ZIP 后运行 Gridfront-Market.exe�
 文件 SHA-256：6e53169958df39dfac1c399d1d73dcba21e74bc0f493c61c9e4a794499d1bdcf
 
 模拟采用简化直流经济调度和游戏化市场参数，不对应真实电网运行或市场报价。
+
+虚拟机如出现“界面和小地图正常、中央三维地图空白”，请先按 F 恢复总览视角。可下载本页的 Start-VM-Direct3D11.cmd，放在 Gridfront-Market.exe 同目录双击，尝试 Direct3D 11 兼容路径；此模式已在开发机验证，尚待反馈者的虚拟机验证。完整排查步骤与日志位置见仓库 README。
